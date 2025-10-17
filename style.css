@@ -118,12 +118,12 @@ th {
 
 .example-box ul,
 .example-box ol {
-  margin-left: 25px; /* jarak dari teks ke border kiri */
-  margin-bottom: 15px; /* beri ruang bawah biar lega */
+  margin-left: 25px;
+  margin-bottom: 15px;
 }
 
 .example-box li {
-  margin-bottom: 6px; /* beri jarak antar item list */
+  margin-bottom: 6px;
 }
 
 .form-box {
